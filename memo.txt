@@ -1,0 +1,7 @@
+실행 . venv/Scripts/activate
+종료 deactivate
+
+명령어 확인 django-admin
+개발 서버 python manage.py
+서버 실행 python manage.py runserver
+서버 종료 ctrl + c
