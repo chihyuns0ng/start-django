@@ -1,3 +1,6 @@
+(VSCODE)
+인터프리터 변경 ctrl shift p
+
 실행 . venv/Scripts/activate
 종료 deactivate
 
